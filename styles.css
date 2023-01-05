@@ -20,7 +20,7 @@ h1 {
 
 h2 {
     color: #69A197;
-    font-size: 1.5rem;
+    font-size: 2.25rem;
     margin: 0.167em 0;
 }
 
@@ -98,8 +98,8 @@ p {
 }
 
 .img-main {
-    width: 98px;
-    height: 100px;
+    width: 120px;
+    height: 122px;
     border-radius: 50%;
     margin-top: 1em;
 }
